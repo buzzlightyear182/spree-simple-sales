@@ -1,7 +1,7 @@
-SpreeSimpleSales
+Spree Simple Sales extension
 ================
 
-Introduction goes here.
+Aside from displaying a sale price and sale page, I added overrides for the admin -> edit product view to set the sale price.
 
 Installation
 ------------
